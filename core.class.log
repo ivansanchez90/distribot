@@ -1,0 +1,78 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625224774@s.whatsapp.net',
+    fromMe: false,
+    id: 'E49A1AB0EB1E6A844F55107FC4CC7977',
+    participant: undefined
+  },
+  messageTimestamp: 1745810013,
+  pushName: 'Ivan Sánchez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Boton',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Boton',
+  from: '5493625224774'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0072645a-95a6-40da-a958-8ab6937ab199',
+  keyword: 'key_851bf595-2154-4896-85b3-c28a2a51b8c3',
+  answer: 'Estos son los botones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bec6934a20b754f7b95ccb56ce018d7c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625224774@s.whatsapp.net',
+    fromMe: false,
+    id: 'CEF4164B8C514C5B08C5F01032AF9DB2',
+    participant: undefined
+  },
+  messageTimestamp: 1745810015,
+  pushName: 'Ivan Sánchez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Imagen',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Imagen',
+  from: '5493625224774'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4e02dab-9ee8-49ca-89d2-ee52a914dd81',
+  keyword: 'key_7a9e5597-969c-4041-ae66-99476142fe1e',
+  answer: 'enviando imagen',
+  options: {
+    media: 'https://static.bidcom.com.ar/publicacionesML/productos/WADI001B/1000x1000-WADI001B.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a79a11d8b5da12b78e1c1b6b6f579bad'
+}
