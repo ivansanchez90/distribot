@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5493625224774@s.whatsapp.net',
     fromMe: false,
-    id: 'C22DE883F473C50B0D1DC5BB7A0D1C3B',
+    id: 'D799F80F442848E71E14C3E8A483AA4C',
     participant: undefined
   },
-  messageTimestamp: 1745847195,
+  messageTimestamp: 1745931107,
   pushName: 'Ivan Sánchez',
   broadcast: false,
   message: Message {
@@ -20,8 +20,8 @@
   from: '5493625224774'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a26b213e-b9ee-416b-bc17-ad345141dcc6',
-  keyword: 'key_9036d260-70ab-408b-b76d-d81a8ffabd0e',
+  ref: 'ans_f67a2d8f-cf38-4428-a792-d68da592d694',
+  keyword: 'key_e37ecc02-20ad-4338-b861-e1167c00c5c5',
   answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
     'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
     '1️⃣ Filtros de agua y purificadores\n' +
@@ -31,7 +31,8 @@
     '5️⃣ Productos para piscinas\n' +
     '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
     '7️⃣ Estado de un pedido o servicio\n' +
-    '8️⃣ Hablar con un asesor humano',
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos',
   options: {
     media: null,
     buttons: [],
@@ -40,130 +41,38 @@
     delay: 0,
     idle: null,
     ref: null,
-    nested: [ [Object], [Object], [Object], [Object] ],
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
     keyword: {},
     callback: true
   },
-  refSerialize: '289e3f3daaf3aec791ca3da61d84b327'
+  refSerialize: '90a663bd5f2269862549ab432bb47fb5'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5493625224774@s.whatsapp.net',
     fromMe: false,
-    id: '99629D18D3FA2FF813E1470C96538840',
+    id: '3FDE0ECC9960D4D7F5D7A778E18A9B6E',
     participant: undefined
   },
-  messageTimestamp: 1745847200,
+  messageTimestamp: 1745931109,
   pushName: 'Ivan Sánchez',
   broadcast: false,
   message: Message {
-    conversation: '1',
+    conversation: '9',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '1',
+  body: '9',
   from: '5493625224774'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a4f9aa8b-f3c0-4d25-a14b-4cb426f4530f',
-  keyword: 'key_23d89a86-8b9c-4663-88a3-0c36ddd6318a',
-  answer: 'FILTROS DE AGUA Y PURIFICADORES:\n' +
-    'Contamos con una amplia gama de filtros de agua y purificadores.\n' +
-    'Podes verlos en nuestra pagina web:\n' +
-    'https://www.grupodistrigas.com/purificacion-y-tratamientos-de-agua/',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4bfc4b7cf64a0642ec7ed1577063108b'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493624833824@s.whatsapp.net',
-    fromMe: false,
-    id: '3AA77DEA1A7A69DF9BA7',
-    participant: undefined
-  },
-  messageTimestamp: 1745847258,
-  pushName: 'Franco Giraudi',
-  broadcast: false,
-  message: Message {
-    conversation: '1',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '1',
-  from: '5493624833824'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493624833824@s.whatsapp.net',
-    fromMe: false,
-    id: '3A3CF5556887724D48D2',
-    participant: undefined
-  },
-  messageTimestamp: 1745847269,
-  pushName: 'Franco Giraudi',
-  broadcast: false,
-  message: Message {
-    conversation: '1',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '1',
-  from: '5493624833824'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493624833824@s.whatsapp.net',
-    fromMe: false,
-    id: '3AC65587C547E6021C87',
-    participant: undefined
-  },
-  messageTimestamp: 1745847286,
-  pushName: 'Franco Giraudi',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Hola',
-  from: '5493624833824'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a26b213e-b9ee-416b-bc17-ad345141dcc6',
-  keyword: 'key_9036d260-70ab-408b-b76d-d81a8ffabd0e',
-  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
-    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
-    '1️⃣ Filtros de agua y purificadores\n' +
-    '2️⃣ Dispensers de agua frío/calor\n' +
-    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
-    '4️⃣ Venta y recarga de matafuegos\n' +
-    '5️⃣ Productos para piscinas\n' +
-    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
-    '7️⃣ Estado de un pedido o servicio\n' +
-    '8️⃣ Hablar con un asesor humano',
+  ref: 'ans_c2637823-e8a6-4b5d-84a6-8a611002fec6',
+  keyword: 'key_e6e4792d-741b-4e3b-a5d8-2e9eae0d90c3',
+  answer: '🛒 Consulta de productos\n' +
+    'Por favor, indícanos qué producto o característica estás buscando.',
   options: {
     media: null,
     buttons: [],
@@ -172,51 +81,30 @@
     delay: 0,
     idle: null,
     ref: null,
-    nested: [ [Object], [Object], [Object], [Object] ],
+    nested: [ [Object], [Object] ],
     keyword: {},
     callback: true
   },
-  refSerialize: '289e3f3daaf3aec791ca3da61d84b327'
+  refSerialize: 'c556400eb853d4143314a0a2d48b08b5'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493624833824@s.whatsapp.net',
+    remoteJid: '5493625224774@s.whatsapp.net',
     fromMe: false,
-    id: '3AB61D8CC51277912218',
+    id: '89A06C665FBB79B9C803F0CC3BCFDDED',
     participant: undefined
   },
-  messageTimestamp: 1745847289,
-  pushName: 'Franco Giraudi',
+  messageTimestamp: 1745931117,
+  pushName: 'Ivan Sánchez',
   broadcast: false,
   message: Message {
-    conversation: '1',
+    conversation: 'Filtro de agua',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '1',
-  from: '5493624833824'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_a4f9aa8b-f3c0-4d25-a14b-4cb426f4530f',
-  keyword: 'key_23d89a86-8b9c-4663-88a3-0c36ddd6318a',
-  answer: 'FILTROS DE AGUA Y PURIFICADORES:\n' +
-    'Contamos con una amplia gama de filtros de agua y purificadores.\n' +
-    'Podes verlos en nuestra pagina web:\n' +
-    'https://www.grupodistrigas.com/purificacion-y-tratamientos-de-agua/',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '4bfc4b7cf64a0642ec7ed1577063108b'
+  body: 'Filtro de agua',
+  from: '5493625224774'
 }
