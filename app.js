@@ -125,6 +125,17 @@ const flowMatafuegos = addKeyword('4').addAnswer(
   [precioRecargaMatafuego, matafuegoNuevo1]
 )
 
+const flowMayoristas = addKeyword('10').addAnswer(
+  [
+    'Muchas gracias por elegir Grupo Distrigas.',
+    'Contamos con una amplia gama de productos para mayoristas.',
+    'Podes verlos en nuestra pagina web:',
+    'https://www.grupodistrigas.com/',
+  ],
+  null,
+  null
+)
+
 const flowFiltros = addKeyword('1').addAnswer(
   [
     'FILTROS DE AGUA Y PURIFICADORES:',
@@ -138,6 +149,7 @@ const flowFiltros = addKeyword('1').addAnswer(
 
 const flowPrincipal = addKeyword([
   'hola',
+  'hols',
   'alo',
   'ola',
   'buenas',
@@ -155,21 +167,22 @@ const flowPrincipal = addKeyword([
     '7️⃣ Estado de un pedido o servicio',
     '8️⃣ Hablar con un asesor humano',
     '9️⃣ Consulta de productos',
+    '🔟Acceso Ventas Mayoristas',
   ],
 
   { capture: true },
   (ctx, { fallBack }) => {
-    const validOptions = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
+    const validOptions = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
     const choice = ctx.body.trim()
     if (validOptions.includes(choice)) {
       return true // la entrada es correcta, continúa al sub-flujo correspondiente
     }
     // si no es válida, mostramos mensaje de error y reimprimimos el menú
     return fallBack(
-      '❌ Opción no válida. Por favor elegí sólo uno de los números del 1️⃣ al 8️⃣:'
+      '❌ Opción no válida. Por favor elegí sólo uno de los números del 1️⃣ al 🔟:'
     )
   },
-  [flowMatafuegos, flowFiltros, flowConsultaProductos]
+  [flowMayoristas, flowMatafuegos, flowFiltros, flowConsultaProductos]
 )
 
 // const createBotGPT = async ({ provider, database }) => {
