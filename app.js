@@ -11,29 +11,29 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
 // const ChatGPTClass = require('./chatgpt.class')
-// const fs = require('fs')
+const fs = require('fs')
 // const util = require('util')
 // const exec = util.promisify(require('child_process').exec)
 
-// // Carga de productos desde CSV
-// const productos = []
-// try {
-//   const csv = fs.readFileSync('productos.csv', 'utf8')
-//   const lines = csv.split('\n').filter((l) => l.trim())
-//   const headers = lines
-//     .shift()
-//     .split(',')
-//     .map((h) => h.trim().toLowerCase())
-//   lines.forEach((line) => {
-//     const cols = line.split(',').map((c) => c.trim())
-//     const obj = {}
-//     headers.forEach((h, i) => (obj[h] = cols[i] || ''))
-//     productos.push(obj)
-//   })
-//   console.log(`Cargados ${productos.length} productos desde CSV`)
-// } catch (e) {
-//   console.error('Error al leer productos.csv:', e)
-// }
+// Carga de productos desde CSV
+const productos = []
+try {
+  const csv = fs.readFileSync('productos.csv', 'utf8')
+  const lines = csv.split('\n').filter((l) => l.trim())
+  const headers = lines
+    .shift()
+    .split(';')
+    .map((h) => h.trim().toLowerCase())
+  lines.forEach((line) => {
+    const cols = line.split(';').map((c) => c.trim())
+    const obj = {}
+    headers.forEach((h, i) => (obj[h] = cols[i] || ''))
+    productos.push(obj)
+  })
+  console.log(`Cargados ${productos.length} productos desde CSV`)
+} catch (e) {
+  console.error('Error al leer productos.csv:', e)
+}
 
 // // Función para consultar LLM local con Ollama
 // async function queryLLM(prompt) {
@@ -107,7 +107,7 @@ const linkMap = {
   10: 'https://grupodistrigasmayorista.mitiendanube.com/productos-para-limpieza/',
 }
 
-const ventasMayoristas = addKeyword('9').addAnswer(
+const ventasMayoristas = addKeyword('10').addAnswer(
   [
     '👋¡Hola! Bienvenido a Grupo Distrigas Mayorista.',
     'Contamos con una amplia gama de productos.',
@@ -132,7 +132,7 @@ const ventasMayoristas = addKeyword('9').addAnswer(
     if (validOptions.includes(choice)) {
       Object.entries(linkMap).forEach(async ([key, url]) => {
         if (key === choice) {
-          await open(url)
+          return fallBack(url)
         }
       })
     } else {
@@ -175,17 +175,6 @@ const flowMatafuegos = addKeyword('4').addAnswer(
   null,
   [precioRecargaMatafuego, matafuegoNuevo1]
 )
-
-// const flowMayoristas = addKeyword('10').addAnswer(
-//   [
-//     'Muchas gracias por elegir Grupo Distrigas.',
-//     'Contamos con una amplia gama de productos para mayoristas.',
-//     'Podes verlos en nuestra pagina web:',
-//     'https://www.grupodistrigas.com/',
-//   ],
-//   null,
-//   null
-// )
 
 const flowFiltros = addKeyword('1').addAnswer(
   [
