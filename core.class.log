@@ -1,0 +1,3311 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD5FC15AF9E974F016F',
+    participant: undefined
+  },
+  messageTimestamp: 1748264296,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493624833824'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7554D6624BD2DDB1CE',
+    participant: undefined
+  },
+  messageTimestamp: 1748264309,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '5493624833824'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91dc726b-d030-47fb-89cd-ee0402e092a0',
+  keyword: 'key_541361e5-14aa-42f8-aeb5-a83b7af45031',
+  answer: 'MATAFUEGOS:\n' +
+    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)\n' +
+    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00\n' +
+    'Sabados de 8:00 a 13:00\n' +
+    '1️⃣ Recarga Matafuego 1Kg\n' +
+    '2️⃣ Recarga Matafuego 2,5Kg\n' +
+    '3️⃣ Recarga Matafuego 5Kg\n' +
+    '4️⃣ Recarga Matafuego 10Kg\n' +
+    '5️⃣ Matafuego Nuevo 1Kg\n' +
+    '6️⃣ Matafuego Nuevo 2,5Kg\n' +
+    '7️⃣ Matafuego Nuevo 5Kg\n' +
+    '8️⃣Matafuego Nuevo 10Kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '118e84862784fdf8883b0520a0b0999b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC75508FD0261193B95',
+    participant: undefined
+  },
+  messageTimestamp: 1748264320,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: '8',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '8',
+  from: '5493624833824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABF049B892436C09C0F',
+    participant: undefined
+  },
+  messageTimestamp: 1748264336,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '7',
+  from: '5493624833824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624378018@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB006D5915B463C5CC601',
+    participant: undefined
+  },
+  messageTimestamp: 1748265988,
+  pushName: 'FRANK E HIJOS',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5493624378018'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624038555@s.whatsapp.net',
+    fromMe: false,
+    id: '3F024E155E18E14BD1D537F13F6C88C7',
+    participant: undefined
+  },
+  messageTimestamp: 1748266703,
+  pushName: 'PURA SRL',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos días',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'PURA SRL',
+  body: 'Buenos días',
+  from: '5493624038555'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624038555@s.whatsapp.net',
+    fromMe: false,
+    id: '23E4B45F45267485D739D5C036BE4C11',
+    participant: undefined
+  },
+  messageTimestamp: 1748266734,
+  pushName: 'PURA SRL',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11272728_697173366588157_6866477740227529465_n.enc?ccb=11-4&oh=01_Q5Aa1gHNmD62riUXXYGCe8sP1fp9lUAzg31uTp2DNtM8Ysp32g&oe=685BD041&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Podría pasarme la factura? Por favor',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1317,
+      width: 1148,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11272728_697173366588157_6866477740227529465_n.enc?ccb=11-4&oh=01_Q5Aa1gHNmD62riUXXYGCe8sP1fp9lUAzg31uTp2DNtM8Ysp32g&oe=685BD041&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'PURA SRL',
+  body: '_event_media__eafef646-6892-4ea2-9aa0-fca4240aef2a',
+  from: '5493624038555'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91dc726b-d030-47fb-89cd-ee0402e092a0',
+  keyword: 'key_541361e5-14aa-42f8-aeb5-a83b7af45031',
+  answer: 'MATAFUEGOS:\n' +
+    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)\n' +
+    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00\n' +
+    'Sabados de 8:00 a 13:00\n' +
+    '1️⃣ Recarga Matafuego 1Kg\n' +
+    '2️⃣ Recarga Matafuego 2,5Kg\n' +
+    '3️⃣ Recarga Matafuego 5Kg\n' +
+    '4️⃣ Recarga Matafuego 10Kg\n' +
+    '5️⃣ Matafuego Nuevo 1Kg\n' +
+    '6️⃣ Matafuego Nuevo 2,5Kg\n' +
+    '7️⃣ Matafuego Nuevo 5Kg\n' +
+    '8️⃣Matafuego Nuevo 10Kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '118e84862784fdf8883b0520a0b0999b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE38AD43EC6E8CEBC14',
+    participant: undefined
+  },
+  messageTimestamp: 1748269722,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ivan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ivan',
+  from: '5493624833824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3A46338FF9F8B5B80E93',
+    participant: undefined
+  },
+  messageTimestamp: 1748269730,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    contactMessage: ContactMessage {
+      displayName: 'Germán Raush',
+      vcard: 'BEGIN:VCARD\n' +
+        'VERSION:3.0\n' +
+        'N:Raush;Germán;;;\n' +
+        'FN:Germán Raush\n' +
+        'TEL;type=CELL;type=VOICE;waid=5493624231890:+54 9 362 423-1890\n' +
+        'END:VCARD'
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '',
+  from: '5493624833824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3A78A63890EA2FB3AFA4',
+    participant: undefined
+  },
+  messageTimestamp: 1748269740,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo podes agendar a este cliente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Lo podes agendar a este cliente',
+  from: '5493624833824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8FA738A323BC129BA9',
+    participant: undefined
+  },
+  messageTimestamp: 1748269764,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pásale los precios en cuotas de los LH FRIO CALOR y filtros sobre mesada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Pásale los precios en cuotas de los LH FRIO CALOR y filtros sobre mesada',
+  from: '5493624833824'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624042603@s.whatsapp.net',
+    fromMe: false,
+    id: 'ED090C2FDC28A0A94B81D8A9A4B23BCA',
+    participant: undefined
+  },
+  messageTimestamp: 1748270028,
+  pushName: 'Marcelo Rossi',
+  broadcast: false,
+  message: Message {
+    conversation: 'buenos dias, me podrías pasar la factura',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Marcelo Rossi',
+  body: 'buenos dias, me podrías pasar la factura',
+  from: '5493624042603'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624042603@s.whatsapp.net',
+    fromMe: false,
+    id: '6889EA53CB4371D7B5B705C0D7CEA7A7',
+    participant: undefined
+  },
+  messageTimestamp: 1748270038,
+  pushName: 'Marcelo Rossi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'de esta compra',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Marcelo Rossi',
+  body: 'de esta compra',
+  from: '5493624042603'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624042603@s.whatsapp.net',
+    fromMe: false,
+    id: '3319FB75220F6B9D1ACAFB66CF21EAF6',
+    participant: undefined
+  },
+  messageTimestamp: 1748270076,
+  pushName: 'Marcelo Rossi',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/11888259_1863413584442915_1275875672122585936_n.enc?ccb=11-4&oh=01_Q5Aa1gEebTW_i_xLZLwgmFgdqy2dtKtVWH0GMlEYdinczI8dIQ&oe=685BF21C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      title: 'comprobante_Distrigas (6).pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'comprobante_Distrigas (6).pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/11888259_1863413584442915_1275875672122585936_n.enc?ccb=11-4&oh=01_Q5Aa1gEebTW_i_xLZLwgmFgdqy2dtKtVWH0GMlEYdinczI8dIQ&oe=685BF21C&_nc_sid=5e03e0&_nc_hot=1748270076',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/41200526_548757964964308_2593684425932711270_n.enc?ccb=11-4&oh=01_Q5Aa1gFuqY0WeXF4IZlfvbL92Nbgw2XAPhh4gToJjx7v8fGEYw&oe=685BE71F&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 26,
+      thumbnailWidth: 18
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Marcelo Rossi',
+  body: '_event_document__f0f069a3-3784-4748-ac68-676c7cecae5c',
+  from: '5493624042603'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624335216@s.whatsapp.net',
+    fromMe: false,
+    id: 'E34D0414EBC90878F5E754A5887F8D56',
+    participant: undefined
+  },
+  messageTimestamp: 1748273781,
+  pushName: 'daniel o giraudi',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/12154878_23931559483135836_2055452259673178476_n.enc?ccb=11-4&oh=01_Q5Aa1gGALeNQyTKbG13BCIV2zdgAm81E7Mru-B7vCwnJxnFHoQ&oe=685C0028&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      title: 'GIRAUDI.pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'GIRAUDI.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/12154878_23931559483135836_2055452259673178476_n.enc?ccb=11-4&oh=01_Q5Aa1gGALeNQyTKbG13BCIV2zdgAm81E7Mru-B7vCwnJxnFHoQ&oe=685C0028&_nc_sid=5e03e0&_nc_hot=1748273781',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/19261944_1394045575018280_4348772414628444758_n.enc?ccb=11-4&oh=01_Q5Aa1gGIH9EUTZD0S1XPszWm8iMEXYcCTyi4g8uy0zDDwQiLLA&oe=685BFAAF&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 26,
+      thumbnailWidth: 18
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_document__39f3db5b-9014-4ed5-b700-c84d1ad14fcc',
+  from: '5493624335216'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624231890@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06911A3B802F4997032',
+    participant: undefined
+  },
+  messageTimestamp: 1748274169,
+  pushName: 'Germán Raush',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5493624231890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624231890@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08BAE6A2C017F57EDA9',
+    participant: undefined
+  },
+  messageTimestamp: 1748274170,
+  pushName: 'Germán Raush',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5493624231890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624231890@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08BAE6A2C017F57EDA9',
+    participant: undefined
+  },
+  messageTimestamp: 1748274171,
+  pushName: 'Germán Raush',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Gracias',
+  from: '5493624231890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624231890@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FB4F745BDD826ABDFB',
+    participant: undefined
+  },
+  messageTimestamp: 1748274175,
+  pushName: 'Germán Raush',
+  broadcast: false,
+  message: Message {
+    conversation: 'lo miro y te aviso cualquier cosa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'lo miro y te aviso cualquier cosa',
+  from: '5493624231890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AD3EFED40497EAA703',
+    participant: undefined
+  },
+  messageTimestamp: 1748278617,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'las cadenas plasticas tienen de un solo color?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'las cadenas plasticas tienen de un solo color?',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01C11D383418BD7EC4B',
+    participant: undefined
+  },
+  messageTimestamp: 1748278620,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'en este caso roja?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'en este caso roja?',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A15B11CEF73B923635',
+    participant: undefined
+  },
+  messageTimestamp: 1748279529,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'El cono reflectivo de 70 cm tiene como o de donde colgar la cadena en la punta?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'El cono reflectivo de 70 cm tiene como o de donde colgar la cadena en la punta?',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01DCDD177375545C8D4',
+    participant: undefined
+  },
+  messageTimestamp: 1748282647,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenas tardes. podrias hacerme una factura por 2 niples',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'Buenas tardes. podrias hacerme una factura por 2 niples',
+  from: '5493625158893'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '13D6AD3575E33A054446C05AAC6BD031',
+    participant: undefined
+  },
+  messageTimestamp: 1748283680,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes que local está abierto ? El de la 9 de julio o Alvear ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'Buenas tardes que local está abierto ? El de la 9 de julio o Alvear ?',
+  from: '5493625158893'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac5c375a-039e-4f6e-990a-c89f876e17e3',
+  keyword: 'key_06fda73f-8674-462d-8364-b0c180beb687',
+  answer: '“🚧 Lo sentimos, esta sección está en construcción 🚧\n' +
+    'Estamos trabajando para traerte pronto esta funcionalidad.\n' +
+    'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '14c5bc966acebdba724a574fbbff27ff'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AAE29FCFF4F9803B1B',
+    participant: undefined
+  },
+  messageTimestamp: 1748288409,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'valen lo mismo? del que me enviaste en el presupuesto?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'valen lo mismo? del que me enviaste en el presupuesto?',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F463FE58B7CB9403C3',
+    participant: undefined
+  },
+  messageTimestamp: 1748288439,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'ok mañana voy a buscar todo entonces',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'ok mañana voy a buscar todo entonces',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CEEA363CCD74753D56',
+    participant: undefined
+  },
+  messageTimestamp: 1748288462,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'podrias enviarme factura por 2 niples',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'podrias enviarme factura por 2 niples',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0835B360055BB58FB01',
+    participant: undefined
+  },
+  messageTimestamp: 1748289017,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'cual es la diferencia con este?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'cual es la diferencia con este?',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554799433489@s.whatsapp.net',
+    fromMe: false,
+    id: '3D248EEAB3A186493E90664252810455',
+    participant: undefined
+  },
+  messageTimestamp: 1748289804,
+  pushName: 'Ney',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '554799433489'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554799433489@s.whatsapp.net',
+    fromMe: false,
+    id: '3D248EEAB3A186493E90664252810455',
+    participant: undefined
+  },
+  messageTimestamp: 1748289805,
+  pushName: 'Ney',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola buenas tardes',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola buenas tardes',
+  from: '554799433489'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554799433489@s.whatsapp.net',
+    fromMe: false,
+    id: '3D248EEAB3A186493E90664252810455',
+    participant: undefined
+  },
+  messageTimestamp: 1748289805,
+  pushName: 'Ney',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola buenas tardes',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola buenas tardes',
+  from: '554799433489'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554799433489@s.whatsapp.net',
+    fromMe: false,
+    id: 'E6726D9FB7941C1B6FBC1B8EB912D629',
+    participant: undefined
+  },
+  messageTimestamp: 1748289832,
+  pushName: 'Ney',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '554799433489'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91dc726b-d030-47fb-89cd-ee0402e092a0',
+  keyword: 'key_541361e5-14aa-42f8-aeb5-a83b7af45031',
+  answer: 'MATAFUEGOS:\n' +
+    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)\n' +
+    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00\n' +
+    'Sabados de 8:00 a 13:00\n' +
+    '1️⃣ Recarga Matafuego 1Kg\n' +
+    '2️⃣ Recarga Matafuego 2,5Kg\n' +
+    '3️⃣ Recarga Matafuego 5Kg\n' +
+    '4️⃣ Recarga Matafuego 10Kg\n' +
+    '5️⃣ Matafuego Nuevo 1Kg\n' +
+    '6️⃣ Matafuego Nuevo 2,5Kg\n' +
+    '7️⃣ Matafuego Nuevo 5Kg\n' +
+    '8️⃣Matafuego Nuevo 10Kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '118e84862784fdf8883b0520a0b0999b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554799433489@s.whatsapp.net',
+    fromMe: false,
+    id: '9B6B6B680BF8F8A71B536D7912D719B0',
+    participant: undefined
+  },
+  messageTimestamp: 1748289846,
+  pushName: 'Ney',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '7',
+  from: '554799433489'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554799433489@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7B76F41ADB8B7F1063638E0A240E0A5',
+    participant: undefined
+  },
+  messageTimestamp: 1748290082,
+  pushName: 'Ney',
+  broadcast: false,
+  message: Message {
+    conversation: '8',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '8',
+  from: '554799433489'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624871588@s.whatsapp.net',
+    fromMe: false,
+    id: '0050FFC2ACBAE74EFFC24CCABE2A83C6',
+    participant: undefined
+  },
+  messageTimestamp: 1748291675,
+  pushName: 'Monica',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11757317_3863116580566913_8314363652799554032_n.enc?ccb=11-4&oh=01_Q5Aa1gFqo23s7-CfqsKxfk_NaTw6I-WwKsuZ64Kh0jIbF8Y6Uw&oe=685C3B70&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 20,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11757317_3863116580566913_8314363652799554032_n.enc?ccb=11-4&oh=01_Q5Aa1gFqo23s7-CfqsKxfk_NaTw6I-WwKsuZ64Kh0jIbF8Y6Uw&oe=685C3B70&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_voice_note__43a4f7de-676f-4d72-beac-59a1b4411f44',
+  from: '5493624871588'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624871588@s.whatsapp.net',
+    fromMe: false,
+    id: '0B8DBD0EC262823DDFB6C7DA17FB2BEC',
+    participant: undefined
+  },
+  messageTimestamp: 1748294376,
+  pushName: 'Monica',
+  broadcast: false,
+  message: Message {
+    conversation: 'AH BUENO MUCHISIMAS GRACIAS',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'AH BUENO MUCHISIMAS GRACIAS',
+  from: '5493624871588'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624871588@s.whatsapp.net',
+    fromMe: false,
+    id: '75FF100E70CCFDDE10A6E6AC8EDE4722',
+    participant: undefined
+  },
+  messageTimestamp: 1748294817,
+  pushName: 'Monica',
+  broadcast: false,
+  message: Message {
+    conversation: 'A USTEDES',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'A USTEDES',
+  from: '5493624871588'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '1748035802@broadcast',
+    fromMe: false,
+    id: '8E49B2592B07297359B864723F64D93C',
+    participant: '5493624179762@s.whatsapp.net'
+  },
+  messageTimestamp: 1748300787,
+  pushName: 'Quain Radio Electrónica',
+  broadcast: true,
+  message: Message {
+    senderKeyDistributionMessage: SenderKeyDistributionMessage {
+      groupId: '1748035802@broadcast',
+      axolotlSenderKeyDistributionMessage: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo { messageSecret: [Uint8Array] },
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/35333844_10048444145177814_791437296115312977_n.enc?ccb=11-4&oh=01_Q5Aa1gHHf0Aq6bG8BpLqOjm-UGF96b-IX-kh4ygv08FkMiFZnA&oe=685C6D2E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Oferta exclusiva!!!',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1599,
+      width: 1429,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/35333844_10048444145177814_791437296115312977_n.enc?ccb=11-4&oh=01_Q5Aa1gHHf0Aq6bG8BpLqOjm-UGF96b-IX-kh4ygv08FkMiFZnA&oe=685C6D2E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Quain Radio Electrónica',
+  body: '_event_media__70702e7a-2b4d-4375-9414-9f5db3b77340',
+  from: '1748035802@broadcast'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625271883@s.whatsapp.net',
+    fromMe: false,
+    id: '271DFB4DA8C48B359BA29C2ADEE4B598',
+    participant: undefined
+  },
+  messageTimestamp: 1748343843,
+  pushName: 'Maximiec Sergio Andres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos días, hoy necesito garraferos\n' +
+      'Tres de diez de cocina\n' +
+      'Codos de 1/4@1/4  para cartuchos en línea \n' +
+      'Niples o acople rápido de 1/2@1/4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenos días, hoy necesito garraferos\n' +
+    'Tres de diez de cocina\n' +
+    'Codos de 1/4@1/4  para cartuchos en línea \n' +
+    'Niples o acople rápido de 1/2@1/4',
+  from: '5493625271883'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C0CEAC1B0BFB1B93C2',
+    participant: undefined
+  },
+  messageTimestamp: 1748344651,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buen Dia este niple de que material es',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'Buen Dia este niple de que material es',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB067CE69C98BF310E790',
+    participant: undefined
+  },
+  messageTimestamp: 1748344657,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'asi consulto si tmb me sirve',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'asi consulto si tmb me sirve',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624519586@s.whatsapp.net',
+    fromMe: false,
+    id: '7EC1A8851754E99EFF34AB0E32B2E55F',
+    participant: undefined
+  },
+  messageTimestamp: 1748344921,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buen dia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buen dia',
+  from: '5493624519586'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624519586@s.whatsapp.net',
+    fromMe: false,
+    id: 'F234AE8EC0CA086AA0614E35187E2953',
+    participant: undefined
+  },
+  messageTimestamp: 1748344926,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como estas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Como estas',
+  from: '5493624519586'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624519586@s.whatsapp.net',
+    fromMe: false,
+    id: '872E8D33F1E1AD96676097BB4291F5BD',
+    participant: undefined
+  },
+  messageTimestamp: 1748344984,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: 'Consulta, se puede abonar con echeq',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Consulta, se puede abonar con echeq',
+  from: '5493624519586'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624013156@s.whatsapp.net',
+    fromMe: false,
+    id: '41ECFD0B116CA1DF7613CE294E7900BE',
+    participant: undefined
+  },
+  messageTimestamp: 1748345425,
+  pushName: 'was',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos días',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenos días',
+  from: '5493624013156'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624013156@s.whatsapp.net',
+    fromMe: false,
+    id: '47AAF065388E823208BACF875C2EA0BE',
+    participant: undefined
+  },
+  messageTimestamp: 1748345446,
+  pushName: 'was',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5493624013156'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e4974be9-4894-4a67-bfe4-810498888f37',
+  keyword: 'key_4948881e-6858-40bb-93c5-ccbef7e30b53',
+  answer: '“🚧 Lo sentimos, esta sección está en construcción 🚧\n' +
+    'Estamos trabajando para traerte pronto esta funcionalidad.\n' +
+    'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '740cec7c0c9cbd6ba0704e9533aa70ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624013156@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CBC4F094448C1D8E39',
+    participant: undefined
+  },
+  messageTimestamp: 1748345469,
+  pushName: 'was',
+  broadcast: false,
+  message: Message {
+    conversation: 'quería saber el precio de la recarga de CO2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'quería saber el precio de la recarga de CO2',
+  from: '5493624013156'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624013156@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AD56AB72F4F67B2B7D',
+    participant: undefined
+  },
+  messageTimestamp: 1748345593,
+  pushName: 'was',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para ser más especifico, cargar un tubo con 10 kg de CO2 y pagar con link de pago por mercado pago.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Para ser más especifico, cargar un tubo con 10 kg de CO2 y pagar con link de pago por mercado pago.',
+  from: '5493624013156'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624179762@s.whatsapp.net',
+    fromMe: false,
+    id: '31562A1B96AE1DDEA498212D5D49652E',
+    participant: undefined
+  },
+  messageTimestamp: 1748347828,
+  pushName: 'Quain Radio Electrónica',
+  broadcast: false,
+  message: Message {
+    conversation: '👍🏼',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Quain Radio Electrónica',
+  body: '👍🏼',
+  from: '5493624179762'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624119233@s.whatsapp.net',
+    fromMe: false,
+    id: '3A31318C3C8FEA4BE2A1',
+    participant: undefined
+  },
+  messageTimestamp: 1748347839,
+  pushName: 'Cristal',
+  broadcast: false,
+  message: Message {
+    conversation: 'La direccion es Paso de La patria 1418',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'La direccion es Paso de La patria 1418',
+  from: '5493624119233'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624119233@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD68DAAFA4358E17689',
+    participant: undefined
+  },
+  messageTimestamp: 1748347862,
+  pushName: 'Cristal',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'https://maps.app.goo.gl/4RxGqhzk4obCQTn37?g_st=ic',
+      matchedText: 'https://maps.app.goo.gl/4RxGqhzk4obCQTn37?g_st=ic',
+      canonicalUrl: 'https://maps.app.goo.gl/4RxGqhzk4obCQTn37?g_st=ic',
+      description: '',
+      title: `27°26'30.8"S 59°01'16.1"W`,
+      font: 0,
+      previewType: 0,
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'https://maps.app.goo.gl/4RxGqhzk4obCQTn37?g_st=ic',
+  from: '5493624119233'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624689630@s.whatsapp.net',
+    fromMe: false,
+    id: '3D5EA4DB96B04AA543A10E555AA5AE76',
+    participant: undefined
+  },
+  messageTimestamp: 1748347883,
+  pushName: 'Pablo Yacuzzi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Por favor recordale a Daniel gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Por favor recordale a Daniel gracias',
+  from: '5493624689630'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624729524@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0558004ED914E01F5B0',
+    participant: undefined
+  },
+  messageTimestamp: 1748348153,
+  pushName: 'INTEC',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buen día como están ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'INTEC',
+  body: 'Buen día como están ?',
+  from: '5493624729524'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624729524@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CF542A717EB183FA4B',
+    participant: undefined
+  },
+  messageTimestamp: 1748348175,
+  pushName: 'INTEC',
+  broadcast: false,
+  message: Message {
+    conversation: 'consulto valvula de pie para una dosificadora ddi 60',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'INTEC',
+  body: 'consulto valvula de pie para una dosificadora ddi 60',
+  from: '5493624729524'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624729524@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0995512ED6392AA94D1',
+    participant: undefined
+  },
+  messageTimestamp: 1748348182,
+  pushName: 'INTEC',
+  broadcast: false,
+  message: Message {
+    conversation: 'comercializan ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'INTEC',
+  body: 'comercializan ?',
+  from: '5493624729524'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624119233@s.whatsapp.net',
+    fromMe: false,
+    id: '3A97DB7529F5E3CC9C2A',
+    participant: undefined
+  },
+  messageTimestamp: 1748348737,
+  pushName: 'Cristal',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuando pueda me manda su cbu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuando pueda me manda su cbu',
+  from: '5493624119233'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624042603@s.whatsapp.net',
+    fromMe: false,
+    id: 'BEDE8A7C6116DE85445ACB65C74625AC',
+    participant: undefined
+  },
+  messageTimestamp: 1748348913,
+  pushName: 'Marcelo Rossi',
+  broadcast: false,
+  message: Message {
+    conversation: 'gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Marcelo Rossi',
+  body: 'gracias',
+  from: '5493624042603'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624042603@s.whatsapp.net',
+    fromMe: false,
+    id: '5DB91FA15AD80B8AA01C6BD2C51EC3A5',
+    participant: undefined
+  },
+  messageTimestamp: 1748348936,
+  pushName: 'Marcelo Rossi',
+  broadcast: false,
+  message: Message {
+    conversation: 'alguna chance que la tengan en pdf y puedan mandarme?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Marcelo Rossi',
+  body: 'alguna chance que la tengan en pdf y puedan mandarme?',
+  from: '5493624042603'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4B83C33EE0BF2369204A0D688C2F4BB',
+    participant: undefined
+  },
+  messageTimestamp: 1748348977,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: '2 niples como los consultados previamente \n' +
+      '2 conos de 70 cm \n' +
+      '4 metros de cadena plástica blanca y roja .',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: '2 niples como los consultados previamente \n' +
+    '2 conos de 70 cm \n' +
+    '4 metros de cadena plástica blanca y roja .',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625271883@s.whatsapp.net',
+    fromMe: false,
+    id: 'CC57AE5743BE45539526D065598DEBC3',
+    participant: undefined
+  },
+  messageTimestamp: 1748349042,
+  pushName: 'Maximiec Sergio Andres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cambio de filtros a domicilio mz 99  casa 13\n' +
+      '40 viviendas Jorge niuveri  2\n' +
+      'Teléfono 3624017216 y lleva los filtros, solo mano de obra cobrar.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cambio de filtros a domicilio mz 99  casa 13\n' +
+    '40 viviendas Jorge niuveri  2\n' +
+    'Teléfono 3624017216 y lleva los filtros, solo mano de obra cobrar.',
+  from: '5493625271883'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91dc726b-d030-47fb-89cd-ee0402e092a0',
+  keyword: 'key_541361e5-14aa-42f8-aeb5-a83b7af45031',
+  answer: 'MATAFUEGOS:\n' +
+    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)\n' +
+    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00\n' +
+    'Sabados de 8:00 a 13:00\n' +
+    '1️⃣ Recarga Matafuego 1Kg\n' +
+    '2️⃣ Recarga Matafuego 2,5Kg\n' +
+    '3️⃣ Recarga Matafuego 5Kg\n' +
+    '4️⃣ Recarga Matafuego 10Kg\n' +
+    '5️⃣ Matafuego Nuevo 1Kg\n' +
+    '6️⃣ Matafuego Nuevo 2,5Kg\n' +
+    '7️⃣ Matafuego Nuevo 5Kg\n' +
+    '8️⃣Matafuego Nuevo 10Kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '118e84862784fdf8883b0520a0b0999b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '2D8C141A395F20D87C98C83F1BC36837',
+    participant: undefined
+  },
+  messageTimestamp: 1748349113,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    conversation: 'Enviame los datos de la cuenta de la empresa para adjuntar con nuestra compra , CUIT , NRO de cuenta y demas.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'Enviame los datos de la cuenta de la empresa para adjuntar con nuestra compra , CUIT , NRO de cuenta y demas.',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625271883@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0B8F0E31C9CEF6D9A3A1AC01C03D55F',
+    participant: undefined
+  },
+  messageTimestamp: 1748349314,
+  pushName: 'Maximiec Sergio Andres',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya retiro los filtros, es ir, cambiar y cobrar mano de obra',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ya retiro los filtros, es ir, cambiar y cobrar mano de obra',
+  from: '5493625271883'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644443005@s.whatsapp.net',
+    fromMe: false,
+    id: '16F91A1C64CFD5A745AE2DAEAD97A599',
+    participant: undefined
+  },
+  messageTimestamp: 1748349855,
+  pushName: 'Lorena',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buen día',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buen día',
+  from: '5493644443005'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644443005@s.whatsapp.net',
+    fromMe: false,
+    id: 'F703FAF8099CE95D7A7BCD0849182D7F',
+    participant: undefined
+  },
+  messageTimestamp: 1748349906,
+  pushName: 'Lorena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Necesito saber precio del tanque y tubo de piedra el mediano',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Necesito saber precio del tanque y tubo de piedra el mediano',
+  from: '5493644443005'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5D4B36BFB563F38E693AECA220859E4',
+    participant: undefined
+  },
+  messageTimestamp: 1748351854,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas. Podrán mandar 2 bolsas de tapas azules? Serian 1000 tapas.\n' +
+      'Para Empresores srl de Castelli. Pago x transferencia como siempre.\n' +
+      'Le digo a SerNea que pase a la tarde a retirar el bulto. Puede ser?\n' +
+      'Muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenas. Podrán mandar 2 bolsas de tapas azules? Serian 1000 tapas.\n' +
+    'Para Empresores srl de Castelli. Pago x transferencia como siempre.\n' +
+    'Le digo a SerNea que pase a la tarde a retirar el bulto. Puede ser?\n' +
+    'Muchas gracias',
+  from: '5493644454115'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: '0AB8B750276223109B1EC8413EC6721C',
+    participant: undefined
+  },
+  messageTimestamp: 1748351888,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '7',
+  from: '5493644454115'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d7f5f0de-6cc1-4776-91a3-19980e67d148',
+  keyword: 'key_0afd7c18-cbf5-42cc-81a9-f93833e10ac1',
+  answer: '“🚧 Lo sentimos, esta sección está en construcción 🚧\n' +
+    'Estamos trabajando para traerte pronto esta funcionalidad.\n' +
+    'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '921fd6098953dfb1cc9672e7dcd4469d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: '2D2A03C398A9F0CB43938BA78D7E5173',
+    participant: undefined
+  },
+  messageTimestamp: 1748351906,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    conversation: '8',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '8',
+  from: '5493644454115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0298622507855A19727',
+    participant: undefined
+  },
+  messageTimestamp: 1748352271,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te envio el comprobante de transferencia apenas lo tenga , asi mando a buscar el pedido',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'te envio el comprobante de transferencia apenas lo tenga , asi mando a buscar el pedido',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625195979@s.whatsapp.net',
+    fromMe: false,
+    id: '13E1E322485F00110F898ADBBC8158C3',
+    participant: undefined
+  },
+  messageTimestamp: 1748354062,
+  pushName: 'Grupo Distrigas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Grupo Distrigas',
+  body: 'Hola',
+  from: '5493625195979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491122504894@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04236B9E96F58BA257E',
+    participant: undefined
+  },
+  messageTimestamp: 1748354422,
+  pushName: 'IdEAL Software',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si, decime',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'IdEAL Software',
+  status: 4,
+  body: 'si, decime',
+  from: '5491122504894'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491122504894@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0995A303B6BE6678A90',
+    participant: undefined
+  },
+  messageTimestamp: 1748354459,
+  pushName: 'IdEAL Software',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pasame el team y el numero de factura que lo reviso',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'IdEAL Software',
+  status: 4,
+  body: 'pasame el team y el numero de factura que lo reviso',
+  from: '5491122504894'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00EAFEE29663B1E9DA3',
+    participant: undefined
+  },
+  messageTimestamp: 1748355272,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ya realizamos la transferencia',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'ya realizamos la transferencia',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB004A6CEB4E6F5BDA69B',
+    participant: undefined
+  },
+  messageTimestamp: 1748355311,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'lo envio al cadete mientras a retirar el pedido',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'lo envio al cadete mientras a retirar el pedido',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AED21A90240CF764AB',
+    participant: undefined
+  },
+  messageTimestamp: 1748355424,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'le digo al cadete que retire el pedido de EME solamente?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'le digo al cadete que retire el pedido de EME solamente?',
+  from: '5493625158893'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FBD19A8312AE4FF302',
+    participant: undefined
+  },
+  messageTimestamp: 1748355629,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/18970196_707313935109093_1038512421360559886_n.enc?ccb=11-4&oh=01_Q5Aa1gGnyVzIcgJ9a9lNFG8HfrCjClUiARFX9QXDbmxhSewoAg&oe=685D22D0&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      title: 'DANIEL OSVALDO GIRAUDI - distrigas.pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'DANIEL OSVALDO GIRAUDI - distrigas.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/18970196_707313935109093_1038512421360559886_n.enc?ccb=11-4&oh=01_Q5Aa1gGnyVzIcgJ9a9lNFG8HfrCjClUiARFX9QXDbmxhSewoAg&oe=685D22D0&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contactVcard: false,
+      thumbnailDirectPath: '/v/t62.36145-24/35873125_720706283774797_3612754426537579151_n.enc?ccb=11-4&oh=01_Q5Aa1gGijy9h6UHayNEa3CHRrKfYbU1hSA84uqldfo34F-repg&oe=685D4242&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 26,
+      thumbnailWidth: 18
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: '_event_document__4ef9ff3a-f1a4-4247-b260-708362ac22c1',
+  from: '5493625158893'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91dc726b-d030-47fb-89cd-ee0402e092a0',
+  keyword: 'key_541361e5-14aa-42f8-aeb5-a83b7af45031',
+  answer: 'MATAFUEGOS:\n' +
+    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)\n' +
+    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00\n' +
+    'Sabados de 8:00 a 13:00\n' +
+    '1️⃣ Recarga Matafuego 1Kg\n' +
+    '2️⃣ Recarga Matafuego 2,5Kg\n' +
+    '3️⃣ Recarga Matafuego 5Kg\n' +
+    '4️⃣ Recarga Matafuego 10Kg\n' +
+    '5️⃣ Matafuego Nuevo 1Kg\n' +
+    '6️⃣ Matafuego Nuevo 2,5Kg\n' +
+    '7️⃣ Matafuego Nuevo 5Kg\n' +
+    '8️⃣Matafuego Nuevo 10Kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '118e84862784fdf8883b0520a0b0999b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B2FFC237000BFD601E',
+    participant: undefined
+  },
+  messageTimestamp: 1748355670,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Adjunte comprobante pago. el cadete ya esta en camino. muchas grcais',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'Adjunte comprobante pago. el cadete ya esta en camino. muchas grcais',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491122504894@s.whatsapp.net',
+    fromMe: false,
+    id: 'A9ECE23EE8A98A12B39546FCB518AA29',
+    participant: undefined
+  },
+  messageTimestamp: 1748356004,
+  pushName: 'IdEAL Software',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/30528507_1617323242557804_562816039641589358_n.enc?ccb=11-4&oh=01_Q5Aa1gHjA8twV2UUVP5hXEIXzYVvjF7Ck1BizpgtXLS8I7N6YA&oe=685D397B&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 67,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/30528507_1617323242557804_562816039641589358_n.enc?ccb=11-4&oh=01_Q5Aa1gHjA8twV2UUVP5hXEIXzYVvjF7Ck1BizpgtXLS8I7N6YA&oe=685D397B&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'IdEAL Software',
+  body: '_event_voice_note__2c238663-7737-44c1-8505-06b262fab232',
+  from: '5491122504894'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F281562438D449129A',
+    participant: undefined
+  },
+  messageTimestamp: 1748357134,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'excelente !!',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'excelente !!',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625158893@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C9CB045CA26F51FC48',
+    participant: undefined
+  },
+  messageTimestamp: 1748357140,
+  pushName: 'COMPRAS EME',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'muchas gracias . estamos en contacto',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'COMPRAS EME',
+  body: 'muchas gracias . estamos en contacto',
+  from: '5493625158893'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624689630@s.whatsapp.net',
+    fromMe: false,
+    id: '43D69A96A8C72C0D1CE0A22FF4F4DAC8',
+    participant: undefined
+  },
+  messageTimestamp: 1748358000,
+  pushName: 'Pablo Yacuzzi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ok gracias',
+  from: '5493624689630'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB048BDF108095D6F687E',
+    participant: undefined
+  },
+  messageTimestamp: 1748358153,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/41200508_1035843308518509_6957004367635209087_n.enc?ccb=11-4&oh=01_Q5Aa1gEnhyJi8U8jtjs6JBPJ38B2HpXw_SXmS6fcNIEUfPYgHQ&oe=685D5487&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+      title: 'NOTA SOLICITUD CONVENIO DE PASANTIAS  (13) (1).docx',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      mediaKey: [Uint8Array],
+      fileName: 'NOTA SOLICITUD CONVENIO DE PASANTIAS  (13) (1).docx',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/41200508_1035843308518509_6957004367635209087_n.enc?ccb=11-4&oh=01_Q5Aa1gEnhyJi8U8jtjs6JBPJ38B2HpXw_SXmS6fcNIEUfPYgHQ&oe=685D5487&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contactVcard: false,
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_document__b099b03b-d6a9-4b3c-a03e-b19d797442e2',
+  from: '5493624833824'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_91dc726b-d030-47fb-89cd-ee0402e092a0',
+  keyword: 'key_541361e5-14aa-42f8-aeb5-a83b7af45031',
+  answer: 'MATAFUEGOS:\n' +
+    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)\n' +
+    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00\n' +
+    'Sabados de 8:00 a 13:00\n' +
+    '1️⃣ Recarga Matafuego 1Kg\n' +
+    '2️⃣ Recarga Matafuego 2,5Kg\n' +
+    '3️⃣ Recarga Matafuego 5Kg\n' +
+    '4️⃣ Recarga Matafuego 10Kg\n' +
+    '5️⃣ Matafuego Nuevo 1Kg\n' +
+    '6️⃣ Matafuego Nuevo 2,5Kg\n' +
+    '7️⃣ Matafuego Nuevo 5Kg\n' +
+    '8️⃣Matafuego Nuevo 10Kg',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '118e84862784fdf8883b0520a0b0999b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624013156@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D8375CD7F26EBF166D',
+    participant: undefined
+  },
+  messageTimestamp: 1748358443,
+  pushName: 'was',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Podría enviarme el link de pago por favor',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Podría enviarme el link de pago por favor',
+  from: '5493624013156'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624013156@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EE207B66953F0F481A',
+    participant: undefined
+  },
+  messageTimestamp: 1748358482,
+  pushName: 'was',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'necesitaría también factura A - a nombre de la Operadora Ferroviaria S.E.',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'necesitaría también factura A - a nombre de la Operadora Ferroviaria S.E.',
+  from: '5493624013156'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: '69A3F519AA99C6B5D44389F27D0ABFFE',
+    participant: undefined
+  },
+  messageTimestamp: 1748358545,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    conversation: '👍🏻gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '👍🏻gracias',
+  from: '5493644454115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624134979@s.whatsapp.net',
+    fromMe: false,
+    id: '6AE08909372D35381E37E4CF8CC52D12',
+    participant: undefined
+  },
+  messageTimestamp: 1748364700,
+  pushName: 'Alejandra',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes quisiera hacer pedido un tubo para quirófano sanatorio frangioli',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenas tardes quisiera hacer pedido un tubo para quirófano sanatorio frangioli',
+  from: '5493624134979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624134979@s.whatsapp.net',
+    fromMe: false,
+    id: 'B5036682E6DB067D2723350F9CDFDCDE',
+    participant: undefined
+  },
+  messageTimestamp: 1748364714,
+  pushName: 'Alejandra',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5493624134979'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e4974be9-4894-4a67-bfe4-810498888f37',
+  keyword: 'key_4948881e-6858-40bb-93c5-ccbef7e30b53',
+  answer: '“🚧 Lo sentimos, esta sección está en construcción 🚧\n' +
+    'Estamos trabajando para traerte pronto esta funcionalidad.\n' +
+    'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '740cec7c0c9cbd6ba0704e9533aa70ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624134979@s.whatsapp.net',
+    fromMe: false,
+    id: '42C3D8E16EB0C6F7662CE1EA58687256',
+    participant: undefined
+  },
+  messageTimestamp: 1748364745,
+  pushName: 'Alejandra',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5493624134979'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493718449184@s.whatsapp.net',
+    fromMe: false,
+    id: '3861F352ED61E2C6AD0A50B09F909F14',
+    participant: undefined
+  },
+  messageTimestamp: 1748374968,
+  pushName: 'Aguas del Norte',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5493718449184'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493718449184@s.whatsapp.net',
+    fromMe: false,
+    id: '3861F352ED61E2C6AD0A50B09F909F14',
+    participant: undefined
+  },
+  messageTimestamp: 1748374970,
+  pushName: 'Aguas del Norte',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola buenas bidones de 25 litros tienen?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Aguas del Norte',
+  body: 'Hola buenas bidones de 25 litros tienen?',
+  from: '5493718449184'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: '13CD41F3E6C148FFE3B28D1B2C4B5302',
+    participant: undefined
+  },
+  messageTimestamp: 1748380051,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/19106651_1216058073227198_1494659380909579606_n.enc?ccb=11-4&oh=01_Q5Aa1gHWpzqgkRtoy7EnXGFNGAtxt1IHnbrLbjQHK0VRIPSEVg&oe=685D9B21&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'mercadopago_comprobante_113016536908.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/19106651_1216058073227198_1494659380909579606_n.enc?ccb=11-4&oh=01_Q5Aa1gHWpzqgkRtoy7EnXGFNGAtxt1IHnbrLbjQHK0VRIPSEVg&oe=685D9B21&_nc_sid=5e03e0&_nc_hot=1748379990',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/11742200_1015607964013993_4903424704632901299_n.enc?ccb=11-4&oh=01_Q5Aa1gHDvmaGQfZh0vp63nk-VpLGyLWf6fO-sbbG3itxhdZVdg&oe=685D881B&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 480,
+      thumbnailWidth: 289
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_document__00003c7d-ed7f-42d9-a107-ffc81eefc6e8',
+  from: '5493644454115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: '13CD41F3E6C148FFE3B28D1B2C4B5302',
+    participant: undefined
+  },
+  messageTimestamp: 1748380225,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/19106651_1216058073227198_1494659380909579606_n.enc?ccb=11-4&oh=01_Q5Aa1gHWpzqgkRtoy7EnXGFNGAtxt1IHnbrLbjQHK0VRIPSEVg&oe=685D9B21&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'mercadopago_comprobante_113016536908.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/19106651_1216058073227198_1494659380909579606_n.enc?ccb=11-4&oh=01_Q5Aa1gHWpzqgkRtoy7EnXGFNGAtxt1IHnbrLbjQHK0VRIPSEVg&oe=685D9B21&_nc_sid=5e03e0&_nc_hot=1748379990',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/11742200_1015607964013993_4903424704632901299_n.enc?ccb=11-4&oh=01_Q5Aa1gHDvmaGQfZh0vp63nk-VpLGyLWf6fO-sbbG3itxhdZVdg&oe=685D881B&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 480,
+      thumbnailWidth: 289
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_document__b34724c5-ece0-44ee-ac96-8134aec2b459',
+  from: '5493644454115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493644454115@s.whatsapp.net',
+    fromMe: false,
+    id: '675B141C339FCEE0E936AE68810A66E1',
+    participant: undefined
+  },
+  messageTimestamp: 1748380268,
+  pushName: 'Nancy Frias',
+  broadcast: false,
+  message: Message {
+    conversation: '👍🏻👍🏻',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '👍🏻👍🏻',
+  from: '5493644454115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624239884@s.whatsapp.net',
+    fromMe: false,
+    id: '652402880485A5D454DFF60432237790',
+    participant: undefined
+  },
+  messageTimestamp: 1748381379,
+  pushName: 'Joel Esquivel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola buenas tardes',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola buenas tardes',
+  from: '5493624239884'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624688246@s.whatsapp.net',
+    fromMe: false,
+    id: '932EA992CE1B0BEC3213200E45DC02E1',
+    participant: undefined
+  },
+  messageTimestamp: 1748381595,
+  pushName: 'Ariel',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/24018180_2668293320032956_2117303042098671915_n.enc?ccb=11-4&oh=01_Q5Aa1gHFhS5dFv5hi8URrHdmV9FOtB7SAY-M65beeOtlnpKkAA&oe=685DB64D&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'mercadopago_comprobante_112551109591.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/24018180_2668293320032956_2117303042098671915_n.enc?ccb=11-4&oh=01_Q5Aa1gHFhS5dFv5hi8URrHdmV9FOtB7SAY-M65beeOtlnpKkAA&oe=685DB64D&_nc_sid=5e03e0&_nc_hot=1748381594',
+      mediaKeyTimestamp: [Long],
+      thumbnailDirectPath: '/v/t62.36145-24/18858962_1762878221292106_8864545015001204299_n.enc?ccb=11-4&oh=01_Q5Aa1gGLOD8NQCOn1F0GJiZa6M5lQgwnjC3zMSeOzXLWKNHi8g&oe=685DAFB5&_nc_sid=5e03e0',
+      thumbnailSha256: [Uint8Array],
+      thumbnailEncSha256: [Uint8Array],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      thumbnailHeight: 480,
+      thumbnailWidth: 289
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Ariel',
+  body: '_event_document__11043ee1-968d-4e61-be40-90fc1691da92',
+  from: '5493624688246'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493718449184@s.whatsapp.net',
+    fromMe: false,
+    id: '5583C56F369C70B20E1385061D599835',
+    participant: undefined
+  },
+  messageTimestamp: 1748382691,
+  pushName: 'Aguas del Norte',
+  broadcast: false,
+  message: Message {
+    conversation: 'Los precios del bidon de 25 litros x favor si tienen..',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Aguas del Norte',
+  body: 'Los precios del bidon de 25 litros x favor si tienen..',
+  from: '5493718449184'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_950a5aee-9766-4461-b658-8b934ba6ad66',
+  keyword: 'key_6900eb63-7a25-4beb-8c74-be7e96578edd',
+  answer: '“🚧 Lo sentimos, esta sección está en construcción 🚧\n' +
+    'Estamos trabajando para traerte pronto esta funcionalidad.\n' +
+    'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a25dcaecba5f3b4b8207fce7d3d7f91c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493718449184@s.whatsapp.net',
+    fromMe: false,
+    id: '3F4A3A248BCAA720ABAA59AF5967250D',
+    participant: undefined
+  },
+  messageTimestamp: 1748384164,
+  pushName: 'Aguas del Norte',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Aguas del Norte',
+  body: 'Menu',
+  from: '5493718449184'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5713a8b-b7d7-4a4f-86b5-1e4dc803734b',
+  keyword: 'key_cf2af73c-5224-4225-8699-c818e1a96b71',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    '1️⃣ Filtros de agua y purificadores\n' +
+    '2️⃣ Dispensers de agua frío/calor\n' +
+    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)\n' +
+    '4️⃣ Venta y recarga de matafuegos\n' +
+    '5️⃣ Productos para piscinas\n' +
+    '6️⃣ Electrodomésticos (línea hogar y seguridad)\n' +
+    '7️⃣ Estado de un pedido o servicio\n' +
+    '8️⃣ Hablar con un asesor humano\n' +
+    '9️⃣ Consulta de productos\n' +
+    '🔟 Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c48f11f5a473dea6e2640f3b78e4508e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493718449184@s.whatsapp.net',
+    fromMe: false,
+    id: '43D94CDACFA7EAFC1062CB8144725CB9',
+    participant: undefined
+  },
+  messageTimestamp: 1748384212,
+  pushName: 'Aguas del Norte',
+  broadcast: false,
+  message: Message {
+    conversation: '9',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Aguas del Norte',
+  body: '9',
+  from: '5493718449184'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac5c375a-039e-4f6e-990a-c89f876e17e3',
+  keyword: 'key_06fda73f-8674-462d-8364-b0c180beb687',
+  answer: '“🚧 Lo sentimos, esta sección está en construcción 🚧\n' +
+    'Estamos trabajando para traerte pronto esta funcionalidad.\n' +
+    'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '14c5bc966acebdba724a574fbbff27ff'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493624833824@s.whatsapp.net',
+    fromMe: false,
+    id: '3A79F2804A14AE44974C',
+    participant: undefined
+  },
+  messageTimestamp: 1748386980,
+  pushName: 'Franco Giraudi',
+  broadcast: false,
+  message: Message {
+    conversation: 'GIRAUDI\tabr-25\t\t\t\r\t\t\tfact\tiva\tsin iva\tfinal\r\t\t\t\t\t\t\rV53\t\tV53\t$ 135.000\t$ 28.350\t$ 30.000\t$ 193.350\r208BMT\t\tGRIS comun\t$ 145.000\t$ 30.450\t$ 30.000\t$ 205.450\r208BMT\t\tGRIS DIGITAL\t$ 175.000\t$ 36.750\t$ 30.000\t$ 241.750\r208BM G\t\tMESA  blanco\t$ 130.000\t$ 27.300\t$ 30.000\t$ 187.300\r208BM G\t\tMESA  Digital\t$ 165.000\t$ 34.650\t$ 30.000\t$ 229.650\r\t\t\t\t\t\t\r208-BM3\t\tHeladera Digital\t$ 195.000\t$ 40.950\t$ 30.000\t$ 265.950\r\t\t\t\t\t\t\rred\t\tV53 red con filtros\t$ 160.000\t$ 33.600\t$ 40.000\t$ 233.600\r208BMT\t\tGRIS comun con filtros\t$ 170.000\t$ 35.700\t$ 40.000\t$ 245.700\r208BMT\t\tGRIS DIGITAL c/filtros\t$ 200.000\t$ 42.000\t$ 40.000\t$ 282.000\r208BM G\t\tMESA blanc red c/filtros\t$ 155.000\t$ 32.550\t$ 40.000\t$ 227.550\r208BM G\t\tMESA DIGIT red c/filtros\t$ 190.000\t$ 39.900\t$ 40.000\t$ 269.900',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'GIRAUDI\tabr-25\t\t\t\r\t\t\tfact\tiva\tsin iva\tfinal\r\t\t\t\t\t\t\rV53\t\tV53\t$ 135.000\t$ 28.350\t$ 30.000\t$ 193.350\r208BMT\t\tGRIS comun\t$ 145.000\t$ 30.450\t$ 30.000\t$ 205.450\r208BMT\t\tGRIS DIGITAL\t$ 175.000\t$ 36.750\t$ 30.000\t$ 241.750\r208BM G\t\tMESA  blanco\t$ 130.000\t$ 27.300\t$ 30.000\t$ 187.300\r208BM G\t\tMESA  Digital\t$ 165.000\t$ 34.650\t$ 30.000\t$ 229.650\r\t\t\t\t\t\t\r208-BM3\t\tHeladera Digital\t$ 195.000\t$ 40.950\t$ 30.000\t$ 265.950\r\t\t\t\t\t\t\rred\t\tV53 red con filtros\t$ 160.000\t$ 33.600\t$ 40.000\t$ 233.600\r208BMT\t\tGRIS comun con filtros\t$ 170.000\t$ 35.700\t$ 40.000\t$ 245.700\r208BMT\t\tGRIS DIGITAL c/filtros\t$ 200.000\t$ 42.000\t$ 40.000\t$ 282.000\r208BM G\t\tMESA blanc red c/filtros\t$ 155.000\t$ 32.550\t$ 40.000\t$ 227.550\r208BM G\t\tMESA DIGIT red c/filtros\t$ 190.000\t$ 39.900\t$ 40.000\t$ 269.900',
+  from: '5493624833824'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d5566582-5bf0-4aad-882c-5e42074cb59e',
+  keyword: 'key_6b518ea2-9c0c-4f75-92e4-4d76ae55742a',
+  answer: 'El precio de la recarga de matafuego de 1kg es de $5500\n' +
+    'el tiempo de espera es de aproximadamente 1 hora',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4d7f926ca0c4d0257340969fb7e148ab'
+}

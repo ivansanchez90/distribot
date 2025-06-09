@@ -106,7 +106,6 @@ const linkMap = {
   9: 'https://grupodistrigasmayorista.mitiendanube.com/bolsas-para-bidones/',
   10: 'https://grupodistrigasmayorista.mitiendanube.com/productos-para-limpieza/',
 }
-
 const ventasMayoristas = addKeyword('10').addAnswer(
   [
     '👋¡Hola! Bienvenido a Grupo Distrigas Mayorista.',
@@ -148,6 +147,46 @@ const precioRecargaMatafuego = addKeyword('1').addAnswer([
   'El precio de la recarga de matafuego de 1kg es de $5500',
   'el tiempo de espera es de aproximadamente 1 hora',
 ])
+
+const dispenserAgua = addKeyword('2').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+
+const gasesIndustriales = addKeyword('3').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+
+const productosPiscinas = addKeyword('5').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+const electrodomesticos = addKeyword('6').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+
+const estadoPedido = addKeyword('7').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+const asesorHumano = addKeyword('8').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+const consultaProductos = addKeyword('9').addAnswer([
+  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+  'Estamos trabajando para traerte pronto esta funcionalidad.',
+  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+])
+
 const matafuegoNuevo1 = addKeyword('5').addAnswer(
   ['Matafuego Nuevo de 1 Kg', 'Precio: $31.000,00'],
   {
@@ -156,20 +195,16 @@ const matafuegoNuevo1 = addKeyword('5').addAnswer(
   }
 )
 
-const flowMatafuegos = addKeyword('4').addAnswer(
+const matafuegos = addKeyword('1').addAnswer(
   [
     'MATAFUEGOS:',
     'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)',
     'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00',
     'Sabados de 8:00 a 13:00',
-    '1️⃣ Recarga Matafuego 1Kg',
-    '2️⃣ Recarga Matafuego 2,5Kg',
-    '3️⃣ Recarga Matafuego 5Kg',
-    '4️⃣ Recarga Matafuego 10Kg',
-    '5️⃣ Matafuego Nuevo 1Kg',
-    '6️⃣ Matafuego Nuevo 2,5Kg',
-    '7️⃣ Matafuego Nuevo 5Kg',
-    '8️⃣Matafuego Nuevo 10Kg',
+    'Recarga de matafuegos',
+    'https://www.grupodistrigas.com/servicios/',
+    'Compra de matafuegos nuevos',
+    'https://www.grupodistrigas.com/seguridad/extintores-de-incendio/',
   ],
   null,
   null,
@@ -187,6 +222,9 @@ const flowFiltros = addKeyword('1').addAnswer(
   null
 )
 
+//seguridad - agua y purificacion - sodería y agua envada - gases industriales
+// parrilas y anafes - pisccinas y bombas - hogar y electrodomesticos - deportes y fitness
+
 const flowPrincipal = addKeyword([
   'hola',
   'hols',
@@ -194,40 +232,41 @@ const flowPrincipal = addKeyword([
   'ola',
   'buenas',
   'buenos',
+  'menu',
+  'menú',
 ]).addAnswer(
   [
     '👋¡Hola! Bienvenido a Grupo Distrigas.',
     'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?',
-    '1️⃣ Filtros de agua y purificadores',
-    '2️⃣ Dispensers de agua frío/calor',
-    '3️⃣ Recarga de gases industriales (CO₂, Butano, Nitrógeno, Oxígeno)',
-    '4️⃣ Venta y recarga de matafuegos',
-    '5️⃣ Productos para piscinas',
-    '6️⃣ Electrodomésticos (línea hogar y seguridad)',
-    '7️⃣ Estado de un pedido o servicio',
-    '8️⃣ Hablar con un asesor humano',
-    '9️⃣ Consulta de productos',
-    '🔟 Acceso Ventas Mayoristas',
+    '1️⃣ Venta y recarga de matafuegos',
+    '2️⃣ Seguridad',
+    '3️⃣ Agua y purificacion',
+    '4️⃣ Sodería y agua envasada',
+    '5️⃣ Gases industriales',
+    '6️⃣ Parrillas y anafes',
+    '7️⃣ Bombas y piscinas',
+    '8️⃣ Hogar y electrodomesticos',
+    '9️⃣ Deportes y fitness',
+    '1️⃣0️⃣ Productos para piscinas',
+    '1️⃣1️⃣ Estado de un pedido o servicio',
+    '1️⃣2️⃣ Hablar con un asesor humano',
+    '1️⃣3️⃣ Acceso Ventas Mayoristas', //link mayoristas
   ],
-
-  { capture: true },
-  (ctx, { fallBack }) => {
-    const validOptions = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
-    const choice = ctx.body.trim()
-    if (validOptions.includes(choice)) {
-      return true // la entrada es correcta, continúa al sub-flujo correspondiente
-    }
-    // si no es válida, mostramos mensaje de error y reimprimimos el menú
-    return fallBack(
-      '❌ Opción no válida. Por favor elegí sólo uno de los números del 1️⃣ al 🔟:'
-    )
-  },
+  null,
+  null,
   [
     // flowMayoristas,
     // flowConsultaProductos,
     ventasMayoristas,
-    flowMatafuegos,
+    matafuegos,
     flowFiltros,
+    gasesIndustriales,
+    productosPiscinas,
+    electrodomesticos,
+    estadoPedido,
+    asesorHumano,
+    consultaProductos,
+    dispenserAgua,
   ]
 )
 
