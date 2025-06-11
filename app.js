@@ -11,29 +11,29 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
 // const ChatGPTClass = require('./chatgpt.class')
-const fs = require('fs')
+// const fs = require('fs')
 // const util = require('util')
 // const exec = util.promisify(require('child_process').exec)
 
 // Carga de productos desde CSV
-const productos = []
-try {
-  const csv = fs.readFileSync('productos.csv', 'utf8')
-  const lines = csv.split('\n').filter((l) => l.trim())
-  const headers = lines
-    .shift()
-    .split(';')
-    .map((h) => h.trim().toLowerCase())
-  lines.forEach((line) => {
-    const cols = line.split(';').map((c) => c.trim())
-    const obj = {}
-    headers.forEach((h, i) => (obj[h] = cols[i] || ''))
-    productos.push(obj)
-  })
-  console.log(`Cargados ${productos.length} productos desde CSV`)
-} catch (e) {
-  console.error('Error al leer productos.csv:', e)
-}
+// const productos = []
+// try {
+//   const csv = fs.readFileSync('productos.csv', 'utf8')
+//   const lines = csv.split('\n').filter((l) => l.trim())
+//   const headers = lines
+//     .shift()
+//     .split(';')
+//     .map((h) => h.trim().toLowerCase())
+//   lines.forEach((line) => {
+//     const cols = line.split(';').map((c) => c.trim())
+//     const obj = {}
+//     headers.forEach((h, i) => (obj[h] = cols[i] || ''))
+//     productos.push(obj)
+//   })
+//   console.log(`Cargados ${productos.length} productos desde CSV`)
+// } catch (e) {
+//   console.error('Error al leer productos.csv:', e)
+// }
 
 // // Función para consultar LLM local con Ollama
 // async function queryLLM(prompt) {
@@ -210,6 +210,54 @@ const matafuegos = addKeyword('1').addAnswer(
   null,
   [precioRecargaMatafuego, matafuegoNuevo1]
 )
+const seguridad = addKeyword('2').addAnswer(
+  ['https://www.grupodistrigas.com/seguridad/'],
+  null,
+  null,
+  null
+)
+const aguaPurificacion = addKeyword('3').addAnswer(
+  ['https://www.grupodistrigas.com/agua-y-purificacion/'],
+  null,
+  null,
+  null
+)
+const soderia = addKeyword('4').addAnswer(
+  ['https://www.grupodistrigas.com/soderia-y-agua-envasada/'],
+  null,
+  null,
+  null
+)
+const gases = addKeyword('5').addAnswer(
+  ['https://www.grupodistrigas.com/gases-industriales/'],
+  null,
+  null,
+  null
+)
+const anafes = addKeyword('6').addAnswer(
+  ['https://www.grupodistrigas.com/parrilla-y-camping/'],
+  null,
+  null,
+  null
+)
+const bombas = addKeyword('7').addAnswer(
+  ['https://www.grupodistrigas.com/piscinas-y-bombas/'],
+  null,
+  null,
+  null
+)
+const hogar = addKeyword('8').addAnswer(
+  ['https://www.grupodistrigas.com/hogar-y-electrodomesticos/'],
+  null,
+  null,
+  null
+)
+const deportes = addKeyword('9').addAnswer(
+  ['https://www.grupodistrigas.com/deportes-y-fitness/'],
+  null,
+  null,
+  null
+)
 
 const flowFiltros = addKeyword('1').addAnswer(
   [
@@ -238,7 +286,9 @@ const flowPrincipal = addKeyword([
   [
     '👋¡Hola! Bienvenido a Grupo Distrigas.',
     'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?',
-    '1️⃣ Venta y recarga de matafuegos',
+    'Hacé click en el siguiente enlace para el estado de tu producdto:',
+    'https://tracking.grupodistrigas.com/',
+    '1️⃣ Venta y recarga de matafuego',
     '2️⃣ Seguridad',
     '3️⃣ Agua y purificacion',
     '4️⃣ Sodería y agua envasada',
@@ -247,10 +297,8 @@ const flowPrincipal = addKeyword([
     '7️⃣ Bombas y piscinas',
     '8️⃣ Hogar y electrodomesticos',
     '9️⃣ Deportes y fitness',
-    '1️⃣0️⃣ Productos para piscinas',
-    '1️⃣1️⃣ Estado de un pedido o servicio',
-    '1️⃣2️⃣ Hablar con un asesor humano',
-    '1️⃣3️⃣ Acceso Ventas Mayoristas', //link mayoristas
+    '1️⃣0️⃣ Hablar con un asesor humano',
+    '1️⃣1️⃣ Acceso Ventas Mayoristas',
   ],
   null,
   null,
@@ -267,6 +315,14 @@ const flowPrincipal = addKeyword([
     asesorHumano,
     consultaProductos,
     dispenserAgua,
+    seguridad,
+    aguaPurificacion,
+    soderia,
+    gases,
+    anafes,
+    bombas,
+    hogar,
+    deportes,
   ]
 )
 
