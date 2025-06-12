@@ -106,7 +106,7 @@ const linkMap = {
   9: 'https://grupodistrigasmayorista.mitiendanube.com/bolsas-para-bidones/',
   10: 'https://grupodistrigasmayorista.mitiendanube.com/productos-para-limpieza/',
 }
-const ventasMayoristas = addKeyword('10').addAnswer(
+const ventasMayoristas = addKeyword('11').addAnswer(
   [
     '👋¡Hola! Bienvenido a Grupo Distrigas Mayorista.',
     'Contamos con una amplia gama de productos.',
@@ -148,44 +148,44 @@ const precioRecargaMatafuego = addKeyword('1').addAnswer([
   'el tiempo de espera es de aproximadamente 1 hora',
 ])
 
-const dispenserAgua = addKeyword('2').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
+// const dispenserAgua = addKeyword('2').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
 
-const gasesIndustriales = addKeyword('3').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
+// const gasesIndustriales = addKeyword('3').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
 
-const productosPiscinas = addKeyword('5').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
-const electrodomesticos = addKeyword('6').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
+// const productosPiscinas = addKeyword('5').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
+// const electrodomesticos = addKeyword('6').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
 
-const estadoPedido = addKeyword('7').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
-const asesorHumano = addKeyword('8').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
-const consultaProductos = addKeyword('9').addAnswer([
-  '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-  'Estamos trabajando para traerte pronto esta funcionalidad.',
-  'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-])
+// const estadoPedido = addKeyword('7').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
+// const asesorHumano = addKeyword('8').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
+// const consultaProductos = addKeyword('9').addAnswer([
+//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
+//   'Estamos trabajando para traerte pronto esta funcionalidad.',
+//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
+// ])
 
 const matafuegoNuevo1 = addKeyword('5').addAnswer(
   ['Matafuego Nuevo de 1 Kg', 'Precio: $31.000,00'],
@@ -210,65 +210,41 @@ const matafuegos = addKeyword('1').addAnswer(
   null,
   [precioRecargaMatafuego, matafuegoNuevo1]
 )
-const seguridad = addKeyword('2').addAnswer(
-  ['https://www.grupodistrigas.com/seguridad/'],
-  null,
-  null,
-  null
-)
-const aguaPurificacion = addKeyword('3').addAnswer(
-  ['https://www.grupodistrigas.com/agua-y-purificacion/'],
-  null,
-  null,
-  null
-)
-const soderia = addKeyword('4').addAnswer(
-  ['https://www.grupodistrigas.com/soderia-y-agua-envasada/'],
-  null,
-  null,
-  null
-)
-const gases = addKeyword('5').addAnswer(
-  ['https://www.grupodistrigas.com/gases-industriales/'],
-  null,
-  null,
-  null
-)
-const anafes = addKeyword('6').addAnswer(
-  ['https://www.grupodistrigas.com/parrilla-y-camping/'],
-  null,
-  null,
-  null
-)
-const bombas = addKeyword('7').addAnswer(
-  ['https://www.grupodistrigas.com/piscinas-y-bombas/'],
-  null,
-  null,
-  null
-)
-const hogar = addKeyword('8').addAnswer(
-  ['https://www.grupodistrigas.com/hogar-y-electrodomesticos/'],
-  null,
-  null,
-  null
-)
-const deportes = addKeyword('9').addAnswer(
-  ['https://www.grupodistrigas.com/deportes-y-fitness/'],
-  null,
-  null,
-  null
-)
+const seguridad = addKeyword('2').addAnswer([
+  'https://www.grupodistrigas.com/seguridad/',
+])
+const aguaPurificacion = addKeyword('3').addAnswer([
+  'https://www.grupodistrigas.com/agua-y-purificacion/',
+])
+const soderia = addKeyword('4').addAnswer([
+  'https://www.grupodistrigas.com/soderia-y-agua-envasada/',
+])
+const gases = addKeyword('5').addAnswer([
+  'https://www.grupodistrigas.com/gases-industriales/',
+])
+const anafes = addKeyword('6').addAnswer([
+  'https://www.grupodistrigas.com/parrilla-y-camping/',
+])
+const bombas = addKeyword('7').addAnswer([
+  'https://www.grupodistrigas.com/piscinas-y-bombas/',
+])
+const hogar = addKeyword('8').addAnswer([
+  'https://www.grupodistrigas.com/hogar-y-electrodomesticos/',
+])
+const deportes = addKeyword('9').addAnswer([
+  'https://www.grupodistrigas.com/deportes-y-fitness/',
+])
 
-const flowFiltros = addKeyword('1').addAnswer(
-  [
-    'FILTROS DE AGUA Y PURIFICADORES:',
-    'Contamos con una amplia gama de filtros de agua y purificadores.',
-    'Podes verlos en nuestra pagina web:',
-    'https://www.grupodistrigas.com/purificacion-y-tratamientos-de-agua/',
-  ],
-  null,
-  null
-)
+// const flowFiltros = addKeyword('1').addAnswer(
+//   [
+//     'FILTROS DE AGUA Y PURIFICADORES:',
+//     'Contamos con una amplia gama de filtros de agua y purificadores.',
+//     'Podes verlos en nuestra pagina web:',
+//     'https://www.grupodistrigas.com/purificacion-y-tratamientos-de-agua/',
+//   ],
+//   null,
+//   null
+// )
 
 //seguridad - agua y purificacion - sodería y agua envada - gases industriales
 // parrilas y anafes - pisccinas y bombas - hogar y electrodomesticos - deportes y fitness
@@ -307,14 +283,14 @@ const flowPrincipal = addKeyword([
     // flowConsultaProductos,
     ventasMayoristas,
     matafuegos,
-    flowFiltros,
-    gasesIndustriales,
-    productosPiscinas,
-    electrodomesticos,
-    estadoPedido,
-    asesorHumano,
-    consultaProductos,
-    dispenserAgua,
+    // flowFiltros,
+    // gasesIndustriales,
+    // productosPiscinas,
+    // electrodomesticos,
+    // estadoPedido,
+    // asesorHumano,
+    // consultaProductos,
+    // dispenserAgua,
     seguridad,
     aguaPurificacion,
     soderia,
