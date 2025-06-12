@@ -1,0 +1,100 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625224774@s.whatsapp.net',
+    fromMe: false,
+    id: '06559E135CFB382B70FDF6E557C8C9C2',
+    participant: undefined
+  },
+  messageTimestamp: 1749728785,
+  pushName: 'Ivan Sánchez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493625224774'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6e62d671-3e02-4336-9c16-fb8d8c71d2c0',
+  keyword: 'key_b74e1065-826d-4ae1-b458-719941af4d85',
+  answer: '👋¡Hola! Bienvenido a Grupo Distrigas.\n' +
+    'Somos especialistas en agua, seguridad industrial, gases y más. ¿Sobre qué categoría querés consultar?\n' +
+    'Hacé click en el siguiente enlace para el estado de tu producdto:\n' +
+    'https://tracking.grupodistrigas.com/\n' +
+    '1️⃣ Venta y recarga de matafuego\n' +
+    '2️⃣ Seguridad\n' +
+    '3️⃣ Agua y purificacion\n' +
+    '4️⃣ Sodería y agua envasada\n' +
+    '5️⃣ Gases industriales\n' +
+    '6️⃣ Parrillas y anafes\n' +
+    '7️⃣ Bombas y piscinas\n' +
+    '8️⃣ Hogar y electrodomesticos\n' +
+    '9️⃣ Deportes y fitness\n' +
+    '1️⃣1️⃣ Acceso Ventas Mayoristas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb89ce5d591920a06cf1aecbed2d87b0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493625224774@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6F04DA67D510E3A4633D620C7BB537C',
+    participant: undefined
+  },
+  messageTimestamp: 1749728794,
+  pushName: 'Ivan Sánchez',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5493625224774'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_62a995a5-eec2-47f1-99bc-9b818c3827fa',
+  keyword: 'key_036afd8e-11c8-4458-b387-a5033c8ce0f1',
+  answer: 'Ingrese al siguiente enlace para ver los productos de agua y purificación:\n' +
+    'https://www.grupodistrigas.com/agua-y-purificacion/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5dfbcd9df9c69bba14a59cbc405c3c64'
+}

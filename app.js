@@ -5,6 +5,7 @@ const {
   addKeyword,
 } = require('@bot-whatsapp/bot')
 require('dotenv').config()
+const { ASESOR_HUMANO_NUM } = process.env
 
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
@@ -143,95 +144,51 @@ const ventasMayoristas = addKeyword('11').addAnswer(
   }
 )
 
-const precioRecargaMatafuego = addKeyword('1').addAnswer([
-  'El precio de la recarga de matafuego de 1kg es de $5500',
-  'el tiempo de espera es de aproximadamente 1 hora',
+// const asesorHumanoMsg = ASESOR_HUMANO_NUM
+//   ? `Para hablar con un asesor humano ingresá a: https://wa.me/${ASESOR_HUMANO_NUM}`
+//   : 'Para hablar con un asesor humano, por favor llamá o enviá un mensaje de forma manual.'
+// const asesorHumano = addKeyword('10').addAnswer([asesorHumanoMsg])
+
+const matafuegos = addKeyword('1').addAnswer([
+  'MATAFUEGOS:',
+  'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)',
+  'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00',
+  'Sabados de 8:00 a 13:00',
+  'Recarga de matafuegos',
+  'https://www.grupodistrigas.com/servicios/',
+  'Compra de matafuegos nuevos',
+  'https://www.grupodistrigas.com/seguridad/extintores-de-incendio/',
 ])
-
-// const dispenserAgua = addKeyword('2').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-
-// const gasesIndustriales = addKeyword('3').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-
-// const productosPiscinas = addKeyword('5').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-// const electrodomesticos = addKeyword('6').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-
-// const estadoPedido = addKeyword('7').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-// const asesorHumano = addKeyword('8').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-// const consultaProductos = addKeyword('9').addAnswer([
-//   '“🚧 Lo sentimos, esta sección está en construcción 🚧',
-//   'Estamos trabajando para traerte pronto esta funcionalidad.',
-//   'Para volver al menú principal, escribe menu o selecciona otra opción.”',
-// ])
-
-const matafuegoNuevo1 = addKeyword('5').addAnswer(
-  ['Matafuego Nuevo de 1 Kg', 'Precio: $31.000,00'],
-  {
-    media:
-      'https://d22fxaf9t8d39k.cloudfront.net/8660b0b8dda0cd7d3e4cf01be9ba78c4a1ae26142ccab862e54185ea7450a71e84467.jpg',
-  }
-)
-
-const matafuegos = addKeyword('1').addAnswer(
-  [
-    'MATAFUEGOS:',
-    'Nuestro local se encuentra en Av. Alvear 395 (Esquina Donovan)',
-    'Los horarios de atencion son de Lunes a Viernes de 8:00 a 12:00 y de 16:00 a 20:00',
-    'Sabados de 8:00 a 13:00',
-    'Recarga de matafuegos',
-    'https://www.grupodistrigas.com/servicios/',
-    'Compra de matafuegos nuevos',
-    'https://www.grupodistrigas.com/seguridad/extintores-de-incendio/',
-  ],
-  null,
-  null,
-  [precioRecargaMatafuego, matafuegoNuevo1]
-)
 const seguridad = addKeyword('2').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de seguridad:',
   'https://www.grupodistrigas.com/seguridad/',
 ])
 const aguaPurificacion = addKeyword('3').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de agua y purificación:',
   'https://www.grupodistrigas.com/agua-y-purificacion/',
 ])
 const soderia = addKeyword('4').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de sodería y agua envasada:',
   'https://www.grupodistrigas.com/soderia-y-agua-envasada/',
 ])
 const gases = addKeyword('5').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de gases industriales:',
   'https://www.grupodistrigas.com/gases-industriales/',
 ])
 const anafes = addKeyword('6').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de parrillas y camping:',
   'https://www.grupodistrigas.com/parrilla-y-camping/',
 ])
 const bombas = addKeyword('7').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de bombas y piscinas:',
   'https://www.grupodistrigas.com/piscinas-y-bombas/',
 ])
 const hogar = addKeyword('8').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de hogar y electrodomésticos:',
   'https://www.grupodistrigas.com/hogar-y-electrodomesticos/',
 ])
 const deportes = addKeyword('9').addAnswer([
+  'Ingrese al siguiente enlace para ver los productos de deportes y fitness:',
   'https://www.grupodistrigas.com/deportes-y-fitness/',
 ])
 
@@ -273,7 +230,7 @@ const flowPrincipal = addKeyword([
     '7️⃣ Bombas y piscinas',
     '8️⃣ Hogar y electrodomesticos',
     '9️⃣ Deportes y fitness',
-    '1️⃣0️⃣ Hablar con un asesor humano',
+    // '1️⃣0️⃣ Hablar con un asesor humano',
     '1️⃣1️⃣ Acceso Ventas Mayoristas',
   ],
   null,
@@ -288,6 +245,7 @@ const flowPrincipal = addKeyword([
     // productosPiscinas,
     // electrodomesticos,
     // estadoPedido,
+    // asesorHumano,
     // asesorHumano,
     // consultaProductos,
     // dispenserAgua,
